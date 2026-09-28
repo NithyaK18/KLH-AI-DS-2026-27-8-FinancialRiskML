@@ -1,5 +1,4 @@
 # KLH-AI-DS-2026-27-8-FinancialRiskML
-# KLH-AI-DS-2026-27-8-FinancialRiskML
 Title: Enhancing Financial Risk Management Through Machine Learning Analytics
 
 Batch No: 8
